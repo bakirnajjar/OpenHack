@@ -1,7 +1,7 @@
 ![Microsoft OpenHack](images/OpenHack%20Lockup%20Graphic%20FY21.png "Microsoft OpenHack")
 
 
-# Microsoft OpenHack Bring your Own Subscription (BYOS) Overview
+# Microsoft OpenHack Bring your Own Subscription (BYOS) Overview New Content
 
 Bring your own subscription (BYOS) enables you to participate in a Microsoft OpenHack using your own Azure subscription(s). The documentation in this repository provides guidance on how to setup each OpenHack in your subscription as well as an overview of some of the differences you will see when interacting with the coach and attendee portals of OpenHack when using your own subscription.
 
